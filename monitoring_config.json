@@ -1,0 +1,32 @@
+{
+  "thresholds": {
+    "cost_daily_limit": 5.0,
+    "cost_monthly_limit": 50.0,
+    "cost_warning_percentage": 80,
+    "response_time_limit": 5.0,
+    "error_rate_limit": 5.0,
+    "memory_usage_limit": 80.0,
+    "cpu_usage_limit": 80.0
+  },
+  "alert_channels": {
+    "email": {
+      "enabled": false,
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587,
+      "username": "",
+      "password": "",
+      "from_email": "",
+      "to_emails": []
+    },
+    "slack": {
+      "enabled": false,
+      "webhook_url": "",
+      "channel": "#alerts"
+    },
+    "webhook": {
+      "enabled": false,
+      "webhook_url": "",
+      "headers": {}
+    }
+  }
+}

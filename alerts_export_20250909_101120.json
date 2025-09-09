@@ -1,0 +1,44 @@
+[
+  {
+    "id": "alert_1757437880_0",
+    "level": "error",
+    "alert_type": "error",
+    "title": "High Error Rate",
+    "message": "Error rate: 33.3% exceeds limit of 5.0%",
+    "timestamp": "2025-09-09T10:11:20.248874",
+    "resolved": false,
+    "resolved_at": null,
+    "metadata": {
+      "error_rate": 33.33333333333333,
+      "limit": 5.0
+    }
+  },
+  {
+    "id": "alert_1757437880_1",
+    "level": "error",
+    "alert_type": "error",
+    "title": "High Error Rate",
+    "message": "Error rate: 25.0% exceeds limit of 5.0%",
+    "timestamp": "2025-09-09T10:11:20.248975",
+    "resolved": false,
+    "resolved_at": null,
+    "metadata": {
+      "error_rate": 25.0,
+      "limit": 5.0
+    }
+  },
+  {
+    "id": "alert_1757437880_2",
+    "level": "warning",
+    "alert_type": "system",
+    "title": "Test Alert",
+    "message": "This is a test alert to demonstrate the alerting system",
+    "timestamp": "2025-09-09T10:11:20.249039",
+    "resolved": false,
+    "resolved_at": null,
+    "metadata": {
+      "test": true,
+      "timestamp": "2025-09-09T10:11:20.249037"
+    }
+  }
+]

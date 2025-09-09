@@ -1,0 +1,23 @@
+{
+  "daily_usage": {
+    "2025-09-09": {
+      "tokens": 23600,
+      "cost": 0.5191999999999999,
+      "calls": 5
+    }
+  },
+  "monthly_usage": {
+    "2025-09": {
+      "tokens": 23600,
+      "cost": 0.5191999999999999,
+      "calls": 5
+    }
+  },
+  "total_spent": 0.5191999999999999,
+  "alerts_sent": [],
+  "settings": {
+    "daily_limit": 5.0,
+    "monthly_limit": 50.0,
+    "alert_threshold": 0.8
+  }
+}

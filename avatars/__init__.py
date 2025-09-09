@@ -1,0 +1,1 @@
+# Simplified Avatar personalities

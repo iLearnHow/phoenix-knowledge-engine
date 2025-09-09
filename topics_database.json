@@ -1,0 +1,188 @@
+{
+  "The Pythagorean Theorem": {
+    "name": "The Pythagorean Theorem",
+    "subject_area": "mathematics",
+    "difficulty_level": "intermediate",
+    "content_type": "theory",
+    "description": "A fundamental theorem in geometry relating the sides of a right triangle",
+    "key_concepts": [
+      "right triangle",
+      "hypotenuse",
+      "legs",
+      "squares",
+      "proof"
+    ],
+    "learning_objectives": [
+      "Understand the relationship between the sides of a right triangle",
+      "Apply the theorem to solve problems",
+      "Recognize when the theorem can be used"
+    ],
+    "prerequisites": [
+      "basic geometry",
+      "squares and square roots"
+    ],
+    "estimated_duration": 45,
+    "tags": [
+      "geometry",
+      "algebra",
+      "proofs"
+    ],
+    "created_date": "2025-09-09T10:11:13.396881",
+    "last_updated": "2025-09-09T10:11:13.396889"
+  },
+  "Photosynthesis": {
+    "name": "Photosynthesis",
+    "subject_area": "science",
+    "difficulty_level": "intermediate",
+    "content_type": "process",
+    "description": "The process by which plants convert light energy into chemical energy",
+    "key_concepts": [
+      "chlorophyll",
+      "light reactions",
+      "dark reactions",
+      "glucose",
+      "oxygen"
+    ],
+    "learning_objectives": [
+      "Explain the overall process of photosynthesis",
+      "Identify the inputs and outputs",
+      "Understand the role of chlorophyll"
+    ],
+    "prerequisites": [
+      "basic biology",
+      "cell structure"
+    ],
+    "estimated_duration": 60,
+    "tags": [
+      "biology",
+      "plants",
+      "energy",
+      "chemistry"
+    ],
+    "created_date": "2025-09-09T10:11:13.396893",
+    "last_updated": "2025-09-09T10:11:13.396894"
+  },
+  "Supply and Demand": {
+    "name": "Supply and Demand",
+    "subject_area": "business",
+    "difficulty_level": "beginner",
+    "content_type": "principle",
+    "description": "The fundamental economic principle that determines market prices",
+    "key_concepts": [
+      "supply",
+      "demand",
+      "equilibrium",
+      "price",
+      "quantity"
+    ],
+    "learning_objectives": [
+      "Understand the law of supply and demand",
+      "Analyze market equilibrium",
+      "Predict price changes based on market factors"
+    ],
+    "prerequisites": [
+      "basic math",
+      "logical thinking"
+    ],
+    "estimated_duration": 50,
+    "tags": [
+      "economics",
+      "markets",
+      "pricing"
+    ],
+    "created_date": "2025-09-09T10:11:13.396897",
+    "last_updated": "2025-09-09T10:11:13.396898"
+  },
+  "Machine Learning Basics": {
+    "name": "Machine Learning Basics",
+    "subject_area": "technology",
+    "difficulty_level": "intermediate",
+    "content_type": "concept",
+    "description": "Introduction to artificial intelligence and machine learning concepts",
+    "key_concepts": [
+      "algorithms",
+      "training data",
+      "models",
+      "prediction",
+      "supervised learning"
+    ],
+    "learning_objectives": [
+      "Understand what machine learning is",
+      "Distinguish between different types of learning",
+      "Recognize real-world applications"
+    ],
+    "prerequisites": [
+      "basic programming",
+      "statistics"
+    ],
+    "estimated_duration": 75,
+    "tags": [
+      "AI",
+      "programming",
+      "data science"
+    ],
+    "created_date": "2025-09-09T10:11:13.396900",
+    "last_updated": "2025-09-09T10:11:13.396901"
+  },
+  "Literary Analysis": {
+    "name": "Literary Analysis",
+    "subject_area": "language_arts",
+    "difficulty_level": "intermediate",
+    "content_type": "skill",
+    "description": "The process of examining and interpreting literary works",
+    "key_concepts": [
+      "theme",
+      "character",
+      "plot",
+      "symbolism",
+      "tone"
+    ],
+    "learning_objectives": [
+      "Identify literary elements in texts",
+      "Analyze author's purpose and techniques",
+      "Write effective literary analysis essays"
+    ],
+    "prerequisites": [
+      "reading comprehension",
+      "writing skills"
+    ],
+    "estimated_duration": 90,
+    "tags": [
+      "literature",
+      "writing",
+      "analysis"
+    ],
+    "created_date": "2025-09-09T10:11:13.396903",
+    "last_updated": "2025-09-09T10:11:13.396904"
+  },
+  "Climate Change": {
+    "name": "Climate Change",
+    "subject_area": "science",
+    "difficulty_level": "intermediate",
+    "content_type": "concept",
+    "description": "Understanding the causes and effects of global climate change",
+    "key_concepts": [
+      "greenhouse gases",
+      "global warming",
+      "carbon footprint",
+      "renewable energy"
+    ],
+    "learning_objectives": [
+      "Understand the science behind climate change",
+      "Identify human activities that contribute to climate change",
+      "Explore solutions and mitigation strategies"
+    ],
+    "prerequisites": [
+      "basic science",
+      "environmental awareness"
+    ],
+    "estimated_duration": 80,
+    "tags": [
+      "environment",
+      "science",
+      "sustainability"
+    ],
+    "created_date": "2025-09-09T10:11:20.248535",
+    "last_updated": "2025-09-09T10:11:20.248541"
+  }
+}

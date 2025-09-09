@@ -1,0 +1,43 @@
+{
+  "name": "phoenix-knowledge-engine",
+  "description": "AI-powered educational content generation system",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd backend && python manage.py runserver 0.0.0.0:$PORT",
+    "build": "cd backend && pip install -r requirements.txt",
+    "test": "cd backend && python manage.py test"
+  },
+  "engines": {
+    "python": "3.11"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "DJANGO_SETTINGS_MODULE": "phoenix.settings",
+    "DEBUG": "False",
+    "ALLOWED_HOSTS": "*",
+    "SECRET_KEY": {
+      "generator": "secret"
+    },
+    "OPENAI_API_KEY": {
+      "description": "Your OpenAI API key for AI content generation"
+    },
+    "DATABASE_URL": {
+      "generator": "postgresql"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql:mini"
+    }
+  ]
+}
